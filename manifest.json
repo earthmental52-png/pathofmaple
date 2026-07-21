@@ -34692,7 +34692,7 @@
     { "path": "String/Map.img", "sha256": "b4ebe0b57be7e35fe48ed92aea4a2590c94c150f63995cda3d83c8279a197c38", "size": 265436 },
     { "path": "String/Mob.img", "sha256": "9c200d011d2efd880bd7cf8df2abb7b7d6e3fd7a32602b653f2894d4b061741f", "size": 265172 },
     { "path": "String/MonsterBook.img", "sha256": "cb5cdedda29683ffa5b7a221f6b3af73167c2ecb0cfdcf138f9997b529d9c301", "size": 252732 },
-    { "path": "String/Npc.img", "sha256": "f51459710741b03a89f9fceac1d72159b046b6063cf4ac47386cb194f193f654", "size": 787498 },
+    { "path": "String/Npc.img", "sha256": "7cfe9e5a31544915f8b98e31079e2be6f521de26492064c17964bb9dda1bb607", "size": 787607 },
     { "path": "String/Pet.img", "sha256": "3b076268125a71bbfde647bfdbde5274021b5d48cb9f76e1a64331cb8f78ef3f", "size": 9958 },
     { "path": "String/PetDialog.img", "sha256": "95f33b9b851451bef9156ffda19efabaac7cded6dada8f731cb942f32a0e3077", "size": 289132 },
     { "path": "String/Skill.img", "sha256": "ed4c02f106f6c2904d9674f5d24113a947e22ca35c09076523af08a538d0d6f4", "size": 563608 },
