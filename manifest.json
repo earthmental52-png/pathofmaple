@@ -19288,7 +19288,7 @@
     { "path": "Map/Back/woodCave.img", "sha256": "55ca93a5a3b7f1349f1cd274fd506d8fd31eb5b2d624ac89b9e1ce69f2c878c5", "size": 1292511 },
     { "path": "Map/Back/zero_Temple.img", "sha256": "513b1bf39fd564423e6eb3af1ef06ee0aca03212155196044b476a21a30a3880", "size": 1159886 },
     { "path": "Map/Map/AreaCode.img", "sha256": "2b6debee906682b2c399a37fb2cc2d7a044304d2be4b5918b96bfbb3662679c9", "size": 157 },
-    { "path": "Map/Map/Map0/000000000.img", "sha256": "c82028756f6ce1f606191f02f6da0436ff1b346e3111863f21ad5c375917904f", "size": 35947 },
+    { "path": "Map/Map/Map0/000000000.img", "sha256": "162335fba9f0056e8be52734f8c0a1816b30d8a6ceda5c208d3d3758fd699148", "size": 121243 },
     { "path": "Map/Map/Map0/000010000.img", "sha256": "d07fe291a7b25371c5f1ff034a28cba7565041c2fbf723b025e516de5386bf41", "size": 18904 },
     { "path": "Map/Map/Map0/000020000.img", "sha256": "5c991196404c1aceb47f12ebeb2faa6385237f382de485099db476e67e16d97f", "size": 17050 },
     { "path": "Map/Map/Map0/000020001.img", "sha256": "c79065fbfc8840e032632a9c6774a4d94cd4e3a693cad4c8636821e556bdea3a", "size": 7322 },
