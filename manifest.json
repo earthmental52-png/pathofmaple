@@ -68701,7 +68701,7 @@
     { "path": "Sound/Weapon.img", "sha256": "bf132d98de5307c2a2c4dc60320e5e68ff24b14f24ad98e61663afb0014b2b4d", "size": 22589 },
     { "path": "String/Cash.img", "sha256": "754f176b485f2271322397c8defebade2c6aaedda4860513ef04b2f466ab4123", "size": 46131 },
     { "path": "String/Consume.img", "sha256": "6e4470b1de2669ae585cf2ed3322f56ba19ab88f1b87966bf8d9019458b3133a", "size": 222441 },
-    { "path": "String/Eqp.img", "sha256": "99224c14ea5d5faba7a94da0e14bd3b0d61ebb6c33c53d83e8bbf830d311e1ef", "size": 1796808 },
+    { "path": "String/Eqp.img", "sha256": "59acbac4525f8311ec0f73b86f878d1f70e04ad821a6bb9e4b48dd008feceae6", "size": 1796810 },
     { "path": "String/Etc.img", "sha256": "3281ba000506e95b78672b1087ebfb156b2634fb1094db056f45730e9fa5e672", "size": 223359 },
     { "path": "String/Ins.img", "sha256": "39c625277ac1d0a7c39dc2ca1b05b3bc93ed8b7c3cc82dd44f2af17c0f500c5b", "size": 65594 },
     { "path": "String/Map.img", "sha256": "d122f1e89642ec1f002f093c342c25aec603324a13a0e8a884e82aa923447f97", "size": 265447 },
