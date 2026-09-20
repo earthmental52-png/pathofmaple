@@ -68718,7 +68718,7 @@
     { "path": "String/Consume.img", "sha256": "7385d375cebff5afc2139a110fe4b9305b9bb6d970152dad60703a3f188ec475", "size": 222611 },
     { "path": "String/Eqp.img", "sha256": "255ef72879ede4b1af03a0472b1880b0a7e68372c433dddfde7d8f5c74f98cce", "size": 1797276 },
     { "path": "String/Etc.img", "sha256": "6e3d1b968cac5de2e67aae499f799441d4c241d77236a9b51c9efcc973c71a64", "size": 230479 },
-    { "path": "String/Ins.img", "sha256": "045a4781d0a5d3df763f4847a0d849261877e7eb18752583ad22c006729e472d", "size": 66228 },
+    { "path": "String/Ins.img", "sha256": "6964d0f5af844c01bf599a8f04bde39708beec52e8cfa00432a437e0c6dd2fbe", "size": 66250 },
     { "path": "String/Map.img", "sha256": "e25b5f46a0b4558a2082fec9f1840c78bac80d527b52c1715833d5433f60e504", "size": 265543 },
     { "path": "String/Mob.img", "sha256": "c5c456d8da7e113aebcace56d780dc2a338b7dfe19c4f559eda436af9745ffbc", "size": 265299 },
     { "path": "String/MonsterBook.img", "sha256": "cb5cdedda29683ffa5b7a221f6b3af73167c2ecb0cfdcf138f9997b529d9c301", "size": 252732 },
