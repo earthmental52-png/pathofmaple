@@ -68684,7 +68684,7 @@
     { "path": "Sound/Bgm41.img", "sha256": "f18371613adeef96e5b03dc28053325341d7f769b4c9ddea5a8af47476cf4a26", "size": 44721323 },
     { "path": "Sound/Bgm44.img", "sha256": "b7976273194f0ce8feeabc4d2bd6da31402b5431be4cac78464a4a68ada38264", "size": 19329995 },
     { "path": "Sound/Bgm46.img", "sha256": "04d9593b58cbd6505d7e792b66a5fd11822049f0a749b82ec0fe99c54204a938", "size": 18113994 },
-    { "path": "Sound/Bgm47.img", "sha256": "853367607cbe627ad17f633686950e88a33cf4135273aaeb671f74c009273c8f", "size": 20313044 },
+    { "path": "Sound/Bgm47.img", "sha256": "4b7b3571b131c92ba75383b7d574f599fea9d73f5885f506412482f0b1f484cd", "size": 33735296 },
     { "path": "Sound/BgmCN.img", "sha256": "1576656846fea73db19e63b02e49ee280f7386f8dc3b1ccaf994f743992768d0", "size": 7038266 },
     { "path": "Sound/BgmEvent.img", "sha256": "60c5a2bd1f65f7ff214c2d576cd22cb3caa2c235c4646e50840c8ae910644aaf", "size": 4759213 },
     { "path": "Sound/BgmFT.img", "sha256": "c297c390f951eafba9407b5e151e5a62d34d14808b36ae942f113fb863c71f5b", "size": 1441056 },
